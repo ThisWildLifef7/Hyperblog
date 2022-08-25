@@ -43,6 +43,11 @@ body {
     padding: 1em;    
 }
 
+#post #logo {
+    width: 100%;
+    
+}
+
 #footer {
     background: #abffd6;
     color: dimgrey;
