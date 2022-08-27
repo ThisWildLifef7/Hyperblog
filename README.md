@@ -8,8 +8,7 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Hecho por mi, a atraves de las clases aprendidas
-- Es necesario realizar apuntes precisos 
-
+- Es necesario realizar apuntes precisos
 
 Y como una amabale recordatorio: **Este readme.md es una prueba**. Estoy diseñando un ejemplo. [Si empiezas algo, debes tomarlo en serio sin titubear.](https://as01.epimg.net/meristation/imagenes/2022/07/15/noticias/1657907079_587637_1657916163_noticia_normal.jpg "Si empiezas algo, debes tomarlo en serio sin titubear.")
 
